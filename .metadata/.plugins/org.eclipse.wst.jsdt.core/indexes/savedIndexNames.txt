@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/avi/Desktop/aviprozzctt/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1735031158.index
+1891420883.index
+1652428406.index
+2296152905.index
+549875831.index
+1677395390.index
